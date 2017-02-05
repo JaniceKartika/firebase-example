@@ -1,6 +1,5 @@
-# Firebase-Sample
+# Firebase Example
 
-Here is the picture of database
+An example how to use Firebase Realtime Database.
 
-![Alt text](/Screenshot (73).png "Screenshot")
-
+This is to answer a question in http://stackoverflow.com/q/42050057/4088357.
